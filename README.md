@@ -2,9 +2,9 @@
 
     p{
       border: 1px outset red;
-      background-color: grey;
+      background-color: white;
       text-align: center;
-
+      border-radius: 25px
     }
 
  
