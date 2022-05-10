@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Bharata Dharisanam</title>
-    <style>
-    .QandA {
-      border: 1px outset red;
-      background-color: grey;
-      text-align: center;
-      }
 
-    .test {background-color: grey;
-      border: 1px outset red;
-      background-color: grey;
-      text-align: center;
-    }
 
     p{
       border: 1px outset red;
@@ -23,27 +7,8 @@
 
     }
 
-    </style>
+ 
 
-
-  </head>
-  <body>
-    <h1> Bharata Dharisanam </h1>
-
-    <p style="color:red"> test</p>
-    <p>
-      <font color="blue"> hello </font>
-      <font color="green"> world </font>
-    </p>
-
-    <div class="QandA">
-      <div class="question">
-        கங்கை நதி கலக்கும்  கடலின்  பெயர்  என்ன?
-      </div>
-      <div class="answer">
-        கங்காஸாகர்
-      </div>
-    </div>
 
     <div class="p">
       hello world
