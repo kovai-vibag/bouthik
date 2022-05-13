@@ -1,6 +1,6 @@
 
 
-    p{
+    .p{
       border: 1px outset red;
       background-color: white;
       text-align: center;
