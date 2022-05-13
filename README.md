@@ -1,12 +1,11 @@
-.p{
+p{
       border: 1px outset red;
       background-color: white;
       text-align: center;
       border-radius: 25px
 }
 
-
-  <p align="center"> <font color ="red"> கங்கை நதி கலக்கும்  கடலின்  பெயர்  என்ன? <br><font color ="green">கங்காஸாகர்</p>
+<p align="center"> <font color ="red"> கங்கை நதி கலக்கும்  கடலின்  பெயர்  என்ன? <br><font color ="green">கங்காஸாகர்</p>
 
   <p align="center"> <font color ="red"> கங்கையின் புகழ் பரப்பும் வேறு சில பெயர்களை கூறு? <br><font color ="green">பகீரதி, ஜன்னவி, ஸுரஸரிதா</p>
 
