@@ -1,5 +1,3 @@
-
-
     .p{
       border: 1px outset red;
       background-color: white;
@@ -7,17 +5,14 @@
       border-radius: 25px
     }
 
- 
-
-
-    <div class="p">
+     <div class="p">
       hello world
     </div>
 
     <p> <font color ="red"> test </p>
 
-      "<p> <font color =""red""> கங்கை நதி கலக்கும்  கடலின்  பெயர்  என்ன?
-  <font color =""green"">கங்காஸாகர்</p>"
+   <p> <font color ="red"> கங்கை நதி கலக்கும்  கடலின்  பெயர்  என்ன?
+  <font color ="green">கங்காஸாகர்</p>
 
     <p> <font color ="red"> கங்கை நதி கலக்கும்  கடலின்  பெயர்  என்ன? <br>
 
